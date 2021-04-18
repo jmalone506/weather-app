@@ -1,0 +1,22 @@
+.jumbotron{
+    text-align: center;
+    color: white;
+    background-color: thistle;
+}
+
+body{
+    background-color: slategray;
+}
+form{
+align-items: center;    
+}
+.row{
+    align-items: center;
+}
+.card{
+    color: black;
+}
+p{
+    text-align: left;
+    padding-top: 10px;
+}
